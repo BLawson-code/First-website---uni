@@ -1,0 +1,38 @@
+@import url("logo.css");
+
+#gallerylist {
+
+list-style-type: none;
+padding: 0;
+
+}
+
+#gallerylist li {
+	
+margin: 10px;
+border-style: double;
+border-color: black;
+overflow: auto;
+
+}
+
+#gallerylist h3 {
+	
+	text-align: center;
+	
+}
+
+#gallerylist p {
+	
+	text-align: center;
+	
+}
+
+#gallerylist img {
+	
+	height: 256px;
+	width: 341px;
+	float: left;
+	
+}
+	

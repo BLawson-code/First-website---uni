@@ -1,0 +1,70 @@
+#logo {
+	height: 113px;
+	width:  90px;
+	
+}
+
+#mainnav	
+{
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+	width: 800px;
+	padding: 0;
+	text-align: center;
+	border: 2px solid #444;
+	padding: 0px;
+	font-size: large;
+}
+
+#mainnav a {
+	
+	display: inline-block;
+	padding: 10px;
+	text-decoration: none;
+	color: white;
+	background-color: gray;
+}
+
+#mainnav a:hover {
+	background-color: gray;
+	list-style-type: none;
+}
+
+#mainnav ul {
+
+list-style-type: none;
+margin: 0px;
+padding: 0px;
+
+}
+
+
+#mainnav Li
+{
+	
+	display: inline;
+	color: black;
+	margin: 2px;
+	padding: 50px; 
+	
+}
+
+#bod
+{ 
+background-color : #ECE5B8;
+
+}
+
+#box
+{
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+	width: 800px;
+	padding: 0;
+	text-align: center;
+	border: 2px solid #444;
+	padding: 0px;
+	font-size: large;
+}

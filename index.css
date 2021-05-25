@@ -1,0 +1,45 @@
+/* University of Derby - 17/18 Year 0 - Technology Project
+Cascading Style Sheet Version: CSS 2.1
+Author:
+Project:
+Version: 1.0
+Date:
+*/
+
+@import url("logo.css");
+
+
+#imgtable img
+{
+	margin-left: auto;
+	margin-right: auto;
+	
+	height: 267px;
+	width: 400px;
+	
+	padding: 0;
+	
+	list-style-type: none;
+	
+	
+}
+
+
+#imgtable
+{
+	display: table-cell;
+	border: white;
+	width: auto;
+	background: #ECE5B8;
+	padding: 2px;
+	margin: 1px;
+	display: block;
+	list-style: none;
+	text-align: center;
+	border-style: solid;
+	}
+	
+#imgtable p
+{
+	text-align: left;
+}
